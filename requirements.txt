@@ -1,8 +1,8 @@
+streamlit==1.31.1
+altair<5
 pandas
 requests
 openpyxl
-streamlit
 streamlit-folium
 folium
-altair
 urllib3
