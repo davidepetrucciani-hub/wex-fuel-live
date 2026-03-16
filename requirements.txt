@@ -1,0 +1,7 @@
+pandas
+requests
+openpyxl
+streamlit
+streamlit-folium
+folium
+urllib3
